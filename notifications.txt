@@ -1,40 +1,9 @@
-[
 {
-   "title":"Ja segue Dom Gean no Instagam?",
-   "description":"Siga Dom Gean no Instagram ;)",
-   "request":"null",
-   "type":"official",
-   "ok":"seguir",
-   "cancell":"talvez depois",
-   "ok_toast":"Não esquece de ver os stories ;) ",
-   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://www.instagram.com/dom_gean/?hl=pt-br",
-   "id":"tinstagram",
-   "cancelable":"false"
-},
-{
-   "title":"Quer ganhar 55 reais?",
-   "description":"Com o novo bônus do Tiktok Lite você ganha R$55 por cada amigo que você convidar, ta esperando o que?",
-   "request":"null",
-   "type":"official",
-   "ok":"instalar",
-   "cancell":"talvez depois",
-   "ok_toast":"Não esquece de dar um joinha no video ;) ",
-   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://youtu.be/x60Q09zHAgg",
-   "id":"tiktok1",
-   "cancelable":"false"
-},
-{
-   "title":"Quer ganhar 55 reais?",
-   "description":"Com o novo bônus do Tiktok Lite você ganha R$55 por cada amigo que você convidar, ta esperando o que?",
-   "request":"null",
-   "type":"official",
-   "ok":"instalar",
-   "cancell":"talvez depois",
-   "ok_toast":"Não esquece de dar um joinha no video ;) ",
-   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://youtu.be/x60Q09zHAgg",
-   "id":"tiktok2",
-   "cancelable":"false"
-}]
+ "type":"banner",
+ "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
+ "title":"Nova função 🚀",
+ "description":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
+ "button_url":"testar agora",
+ "url":"https://youtu.be/WPUDYDQVQKo",
+ "id":"ad0101010o1"
+}
