@@ -2,8 +2,8 @@
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Nova função 🚀",
- "description":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
- "button_url":"testar agora",
- "url":"https://youtu.be/WPUDYDQVQKo",
- "id":"ad0101010o1"
+ "description":"Ei $name participe do canal e grupo do SPACE para fi ar pode dentro das novidades :)",
+ "button_url":"entrar",
+ "url":"https://t.me/SpaceWhatsApp",
+ "id":"bd0101010o1"
 }
