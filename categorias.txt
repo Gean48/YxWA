@@ -1,7 +1,7 @@
 {
   "down":"tags", 
   "category_title_1":"One Ui", 
-  "category_tags_1":"OneUi", 
+  "category_tags_1":"One Ui", 
   "category_title_color_1":"#ffffff", 
   "category_background_color_1":"#", 
   "category_title_2":"Dom Gean", 
