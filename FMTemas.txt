@@ -9,7 +9,7 @@
   "theme_preview_1":"https://telegra.ph/file/1f898bcd9ac6a5aaf19ee.jpg",
   "theme_preview_2":"https://telegra.ph/file/be5e28c1fa60942144a53.jpg",
   "theme_preview_3":"https://telegra.ph/file/ef02ecb05c27111d26347.jpg",
-  "theme_download_noads":"https://seulink.online/uahEsG6",
+  "theme_download_noads":"https://www.mediafire.com/file/dzmdab4v7j6mw8f/Goku.zip/file",
   "theme_download":"https://seulink.online/uahEsG6"
 },
 {
@@ -21,7 +21,7 @@
   "theme_preview_1":"https://telegra.ph/file/c65add9fb3a75ae8e44b5.jpg",
   "theme_preview_2":"https://telegra.ph/file/93ff5277ba01205a6f9db.jpg",
   "theme_preview_3":"https://telegra.ph/file/d62f53bead4d8a6a73caa.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/0fxPk",
+  "theme_download_noads":"https://www.mediafire.com/file/9q0u3gruw4e3ihi/IOS_White.zip/file",
   "theme_download":"https://jaguarface.com/jf/0fxPk"
 },
 {
@@ -33,7 +33,7 @@
   "theme_preview_1":"https://telegra.ph/file/c622d1b5f1f12a411737e.jpg",
   "theme_preview_2":"https://telegra.ph/file/f67c61fbc63ad520dc9c4.jpg",
   "theme_preview_3":"https://telegra.ph/file/7197c0598237832f5b773.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/8SURcyW",
+  "theme_download_noads":"https://www.mediafire.com/file/z59r3rghuuq3ib9/IOS_Dark.zip/file",
   "theme_download":"https://jaguarface.com/jf/8SURcyW"
 },
 {
@@ -45,7 +45,7 @@
   "theme_preview_1":"https://telegra.ph/file/5ca01206d310859a3b6ab.jpg",
   "theme_preview_2":"https://telegra.ph/file/b5764c02cd87fb88e85d7.jpg",
   "theme_preview_3":"https://telegra.ph/file/86e75a22e122277f72051.jpg",
-  "theme_download_noads":"https://seulink.net/rt4wP",
+  "theme_download_noads":"https://www.mediafire.com/file/9fum8glrbjmnftk/Sexy_01.zip/file",
   "theme_download":"https://seulink.net/rt4wP"
 },
 {
@@ -57,7 +57,7 @@
   "theme_preview_1":"https://telegra.ph/file/fddd13fb45ce517c0236d.jpg",
   "theme_preview_2":"https://telegra.ph/file/5de4f2e612f78f430506d.jpg",
   "theme_preview_3":"https://telegra.ph/file/f89356f999c6ad819513e.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/rN4m2e",
+  "theme_download_noads":"https://www.mediafire.com/file/x02wkim7x8n5juv/Sexy_02.zip/file",
   "theme_download":"https://jaguarface.com/jf/rN4m2e"
 },
 {
@@ -69,7 +69,7 @@
   "theme_preview_1":"https://telegra.ph/file/0fda0aeec39e437eaa369.jpg",
   "theme_preview_2":"https://telegra.ph/file/7cbf6d3b5e51a53902921.jpg",
   "theme_preview_3":"https://telegra.ph/file/0c510c8d71847b16c1867.jpg",
-  "theme_download_noads":"https://seulink.net/ddaym",
+  "theme_download_noads":"https://www.mediafire.com/file/zkkg03oi7pg857x/Broly.zip/file",
   "theme_download":"https://seulink.net/ddaym"
 },
 {
@@ -81,7 +81,7 @@
   "theme_preview_1":"https://telegra.ph/file/d90a409c2aee36c5b48b0.jpg",
   "theme_preview_2":"https://telegra.ph/file/08d55318b0bb223f12244.jpg",
   "theme_preview_3":"https://telegra.ph/file/596f802b6adde8a7b94f9.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/gQ5",
+  "theme_download_noads":"https://www.mediafire.com/file/edhbl23v5e2ayml/Bubbles_Green.zip/file",
   "theme_download":"https://jaguarface.com/jf/gQ5"
 },
 {
@@ -93,7 +93,7 @@
   "theme_preview_1":"https://telegra.ph/file/99a2c4e3edc462fbe38ac.jpg",
   "theme_preview_2":"https://telegra.ph/file/00d15228f6fada13c317f.jpg",
   "theme_preview_3":"https://telegra.ph/file/a00e695b872f3426099c7.jpg",
-  "theme_download_noads":"https://seulink.net/kdzHUW",
+  "theme_download_noads":"https://www.mediafire.com/file/0m42g3j54m5lg3f/OneUi_Pink_V2.zip/file",
   "theme_download":"https://seulink.net/kdzHUW"
 },
 {
@@ -105,7 +105,7 @@
   "theme_preview_1":"https://telegra.ph/file/e6347b102dd8367d50daa.jpg",
   "theme_preview_2":"https://telegra.ph/file/f966cda58506659b72621.jpg",
   "theme_preview_3":"https://telegra.ph/file/97f2787aef2235f706a50.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/AzDZNLoS",
+  "theme_download_noads":"https://www.mediafire.com/file/qvr68ec07v1f207/Pooh.zip/file",
   "theme_download":"https://jaguarface.com/jf/AzDZNLoS"
 },
 {
@@ -117,7 +117,7 @@
   "theme_preview_1":"https://telegra.ph/file/92c03a52b452e677fb63a.jpg",
   "theme_preview_2":"https://telegra.ph/file/c0125a2c67bd0871d0885.jpg",
   "theme_preview_3":"https://telegra.ph/file/1928ba1cda887cd7b948f.jpg",
-  "theme_download_noads":"https://seulink.net/z1EC4p",
+  "theme_download_noads":"https://www.mediafire.com/file/lm8i57jsryiuwz2/Stock_Alfa.zip/file",
   "theme_download":"https://seulink.net/z1EC4p"
 },
 {
@@ -129,7 +129,7 @@
   "theme_preview_1":"https://telegra.ph/file/920300b3b40fc2e466c85.jpg",
   "theme_preview_2":"https://telegra.ph/file/8b8b745b2072ef8712cc9.jpg",
   "theme_preview_3":"https://telegra.ph/file/a0ee94a3f9776eae08c9b.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/NOmQdiF",
+  "theme_download_noads":"https://www.mediafire.com/file/m8f9r0gtyzmyzw9/Sub-Zero.zip/file",
   "theme_download":"https://jaguarface.com/jf/NOmQdiF"
 },
 {
@@ -141,7 +141,7 @@
   "theme_preview_1":"https://telegra.ph/file/d582e195af5b6cc232717.jpg",
   "theme_preview_2":"https://telegra.ph/file/00149639d9840a8e9e835.jpg",
   "theme_preview_3":"https://telegra.ph/file/be33bd471edab15e9a677.jpg",
-  "theme_download_noads":"https://seulink.net/iLeTEg",
+  "theme_download_noads":"https://www.mediafire.com/file/u3zd8xl34s1urh1/Black_Green.zip/file",
   "theme_download":"https://seulink.net/iLeTEg"
 },
 {
@@ -153,7 +153,7 @@
   "theme_preview_1":"https://telegra.ph/file/506a60aa70206f6cd66c4.jpg",
   "theme_preview_2":"https://telegra.ph/file/780897082754beab0d963.jpg",
   "theme_preview_3":"https://telegra.ph/file/360c876053de74fb3a784.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/JjFzer",
+  "theme_download_noads":"https://www.mediafire.com/file/5liuphv59mofdm3/Dark_V2.zip/file",
   "theme_download":"https://jaguarface.com/jf/JjFzer"
 },
 {
@@ -165,7 +165,7 @@
   "theme_preview_1":"https://telegra.ph/file/e471766820d755af24a6f.jpg",
   "theme_preview_2":"https://telegra.ph/file/be4d7c7b573711a7f27fd.jpg",
   "theme_preview_3":"https://telegra.ph/file/1db004af76ef1b3227206.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/Rhbja1",
+  "theme_download_noads":"https://www.mediafire.com/file/bkg8oouxnac24qe/White.zip/file",
   "theme_download":"https://jaguarface.com/jf/Rhbja1"
 },
 {
@@ -177,7 +177,7 @@
   "theme_preview_1":"https://telegra.ph/file/8a000b3b33127c92b3753.jpg",
   "theme_preview_2":"https://telegra.ph/file/dd3ef28f9436aed61a389.jpg",
   "theme_preview_3":"https://telegra.ph/file/4c0ad91ff597a5ea75d2c.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/27tRsMhm",
+  "theme_download_noads":"https://www.mediafire.com/file/v9xyxgm14ywq7oa/Ursinho_Pink.zip/file",
   "theme_download":"https://jaguarface.com/jf/27tRsMhm"
 },
 {
@@ -189,7 +189,7 @@
   "theme_preview_1":"https://telegra.ph/file/590dc171ce78db68b30c0.jpg",
   "theme_preview_2":"https://telegra.ph/file/f87caba0b483252fa1feb.jpg",
   "theme_preview_3":"https://telegra.ph/file/5f55dfae2ff8fb051bb72.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/7NaEKF2",
+  "theme_download_noads":"https://www.mediafire.com/file/9rtfyn7z7ytaq0h/Estrelado.zip/file",
   "theme_download":"https://jaguarface.com/jf/7NaEKF2"
 },
 {
@@ -201,7 +201,7 @@
   "theme_preview_1":"https://telegra.ph/file/33a8d02567bf87c99e7de.jpg",
   "theme_preview_2":"https://telegra.ph/file/71e9486f1ed65e64c0bc7.jpg",
   "theme_preview_3":"https://telegra.ph/file/76ad18679e98e5453f7bf.jpg",
-  "theme_download_noads":"https://jaguarface.com/jf/Ivy",
+  "theme_download_noads":"https://www.mediafire.com/file/xdb9tql1d2czdcj/Padroeira.zip/file",
   "theme_download":"https://jaguarface.com/jf/Ivy"
 },
 {
@@ -213,7 +213,7 @@
   "theme_preview_1":"https://telegra.ph/file/fc3ffc9446756821a5cbd.jpg",
   "theme_preview_2":"https://telegra.ph/file/c3e2b9e02cec3b3315b0c.jpg",
   "theme_preview_3":"https://telegra.ph/file/87e1d32759f7fc80ddd31.jpg",
-  "theme_download_noads":"https://seulink.online/qxgz",
+  "theme_download_noads":"https://www.mediafire.com/file/zfvjtzoq2vnp03v/Unic%25C3%25B3rnio.zip/file",
   "theme_download":"https://seulink.online/qxgz"
 },
 {
@@ -225,7 +225,7 @@
   "theme_preview_1":"https://telegra.ph/file/dbdf6f3bfbd3a834c257f.jpg",
   "theme_preview_2":"https://telegra.ph/file/8436d69d27f2bccc6d5ca.jpg",
   "theme_preview_3":"https://telegra.ph/file/123d5f1f828cedb3df604.jpg",
-  "theme_download_noads":"https://seulink.online/TPpdz10",
+  "theme_download_noads":"https://www.mediafire.com/file/tos4h4kc31hhmrd/Real_Madrid.zip/file",
   "theme_download":"https://seulink.online/TPpdz10"
 }
 ]
