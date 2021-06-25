@@ -86,7 +86,7 @@
 },
 {
   "theme_server":"Encurtanet",
-  "theme_name":"OneUi Pink V2",
+  "theme_name":"One Ui Pink V2",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
   "theme_size":"3.98 KB",
