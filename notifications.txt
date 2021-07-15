@@ -2,9 +2,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Vaquinha para comprar uma nova fonte 😟",
- "description":"Ei $name Sim, a minha estragou 😢 em um momento que não dá para comprar outra por motivos de tratamento de saúde. Então se querem continuar a usar (DELTA ALFA, YX ALFA, FOUAD ALFA, SPACE) - agradeço a colaboração de cada um 🙏🏻",
- "button_url":"doar",
- "url":"http://vaka.me/2233803",
+ "title":"ja segue o Gean no Twitter ?",
+ "description":"Ei $name Fique por dentro das novidades e atualizações 〽️🥳",
+ "button_url":"seguir",
+ "url":"https://twitter.com/DG_Gean",
  "id":"bd0101010o1"
 }]
