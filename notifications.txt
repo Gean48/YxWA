@@ -2,9 +2,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"ja segue o Gean no Twitter ?",
- "description":"Ei $name Fique por dentro das novidades e atualizações 〽️🥳",
- "button_url":"seguir",
- "url":"https://twitter.com/DG_Gean",
+ "title":"Grupo de suporte",
+ "description":"Ei $name Participe do nosso grupo de suporte no Facebook e fique por dentro das novidades!",
+ "button_url":"participar",
+ "url":"https://www.facebook.com/groups/suportewhatsapp",
  "id":"bd0101010o1"
 }]
