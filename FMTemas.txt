@@ -5,9 +5,9 @@
   "theme_user":"Dom Gean",
   "theme_date":"28 de junho",
   "theme_size":"100.17 KB",
-  "theme_preview_1":"https://telegra.ph/file/4a3ad4d2872c0ac90fc0d.jpg",
-  "theme_preview_2":"https://telegra.ph/file/2a3563f888b13e96e9d75.jpg",
-  "theme_preview_3":"https://telegra.ph/file/ea91076af0ab580f0d5f2.jpg",
+  "theme_preview_1":"https://telegra.ph/file/9701b2c49b08b78dcd58c.jpg",
+  "theme_preview_2":"https://telegra.ph/file/bad435bf425fb897bee6f.jpg",
+  "theme_preview_3":"https://telegra.ph/file/0631f2ee53f6f09978292.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/ok4lpct9t1grca5/Stock.zip/file",
   "theme_download":"https://jaguarface.com/jf/9UQOVVWE"
 },
