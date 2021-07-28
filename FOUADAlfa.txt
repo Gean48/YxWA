@@ -1,12 +1,12 @@
 {
- "version":"8.87",
+ "version":"8.92",
  "expire881":"365",
  "expire870":"180",
  "store":"1",
  "rewards":"",
  "title":"Atualização disponível",
- "description":"A atualização 8.87 está disponível, inclui novos efeitos de transição para bolhas e emojis.",
- "download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html",
+ "description":"A atualização 8.92 está disponível, inclui novas funções como acelerar áudio e muito mais!.",
+ "download":"https://modsalfa.blogspot.com/2020/03/fmwhatsapp.html",
  "users_premium":"",
  "force":"true"
 }
