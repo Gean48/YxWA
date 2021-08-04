@@ -5,7 +5,7 @@
  "store":"1",
  "rewards":"",
  "title":"Atualização disponível",
- "description":"A atualização 8.92 está disponível, inclui novas funções como acelerar áudio e muito mais!.",
+ "description":"A atualização 1.0.1 está disponível, mudando para Space WhatsApp. Agora como novo menu e tema escuro exclusivo!.",
  "download":"https://modsalfa.blogspot.com/2020/03/fmwhatsapp.html",
  "users_premium":"",
  "force":"true"
