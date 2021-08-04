@@ -1,5 +1,5 @@
 {
- "version":"8.92",
+ "version":"1.0.1",
  "expire881":"365",
  "expire870":"180",
  "store":"1",
