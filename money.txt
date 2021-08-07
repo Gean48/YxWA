@@ -1,1 +1,0 @@
-{'num':'1', 'msgs':'\nEste aplicativo é GRATUITO e NÃO custa dinheiro!\nSe você pagou por isso, você foi enganado!\n\nNÃO compre novamente, quando uma ATUALIZAÇÃO estiver disponível, você receberá uma mensagem automaticamente.\nNão precisa comprar\n'}
