@@ -1,6 +1,6 @@
 [
 {
-  "theme_server":"LJaguar",
+  "theme_server":"Encurtanet",
   "theme_name":"Stock",
   "theme_user":"Dom Gean",
   "theme_date":"28 de junho",
@@ -9,7 +9,7 @@
   "theme_preview_2":"https://telegra.ph/file/bad435bf425fb897bee6f.jpg",
   "theme_preview_3":"https://telegra.ph/file/0631f2ee53f6f09978292.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/ok4lpct9t1grca5/Stock.zip/file",
-  "theme_download":"https://jaguarface.com/jf/9UQOVVWE"
+  "theme_download":"https://seulink.online/2L2MX"
 },
 {
   "theme_server":"Encurtanet",
@@ -24,7 +24,7 @@
   "theme_download":"https://seulink.online/uahEsG6"
 },
 {
-  "theme_server":"LJaguar",
+  "theme_server":"Encurtanet",
   "theme_name":"IOS White",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -33,10 +33,10 @@
   "theme_preview_2":"https://telegra.ph/file/93ff5277ba01205a6f9db.jpg",
   "theme_preview_3":"https://telegra.ph/file/d62f53bead4d8a6a73caa.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/9q0u3gruw4e3ihi/IOS_White.zip/file",
-  "theme_download":"https://jaguarface.com/jf/0fxPk"
+  "theme_download":"https://seulink.online/o1ZlWuH"
 },
 {
-  "theme_server":"LJaguar",
+  "theme_server":"Encurtanet",
   "theme_name":"IOS Dark",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -45,7 +45,7 @@
   "theme_preview_2":"https://telegra.ph/file/f67c61fbc63ad520dc9c4.jpg",
   "theme_preview_3":"https://telegra.ph/file/7197c0598237832f5b773.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/z59r3rghuuq3ib9/IOS_Dark.zip/file",
-  "theme_download":"https://jaguarface.com/jf/8SURcyW"
+  "theme_download":"https://seulink.online/USOId"
 },
 {
   "theme_server":"Encurtanet",
@@ -60,7 +60,7 @@
   "theme_download":"https://seulink.net/rt4wP"
 },
 {
-  "theme_server":"LJaguar",
+  "theme_server":"Encurtanet",
   "theme_name":"Sexy 02",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -69,7 +69,7 @@
   "theme_preview_2":"https://telegra.ph/file/5de4f2e612f78f430506d.jpg",
   "theme_preview_3":"https://telegra.ph/file/f89356f999c6ad819513e.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/x02wkim7x8n5juv/Sexy_02.zip/file",
-  "theme_download":"https://jaguarface.com/jf/rN4m2e"
+  "theme_download":"https://seulink.online/1dtmWa8Kyk"
 },
 {
   "theme_server":"Encurtanet",
@@ -84,7 +84,7 @@
   "theme_download":"https://seulink.net/ddaym"
 },
 {
-  "theme_server":"LJavuar",
+  "theme_server":"Encurtanet",
   "theme_name":"Bubbles Green",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -93,7 +93,7 @@
   "theme_preview_2":"https://telegra.ph/file/08d55318b0bb223f12244.jpg",
   "theme_preview_3":"https://telegra.ph/file/596f802b6adde8a7b94f9.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/edhbl23v5e2ayml/Bubbles_Green.zip/file",
-  "theme_download":"https://jaguarface.com/jf/gQ5"
+  "theme_download":"hhttps://seulink.online/Nrozw"
 },
 {
   "theme_server":"Encurtanet",
@@ -108,7 +108,7 @@
   "theme_download":"https://seulink.net/kdzHUW"
 },
 {
-  "theme_server":"FMWhatsApp",
+  "theme_server":"Encurtanet",
   "theme_name":"Pooh",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -117,10 +117,10 @@
   "theme_preview_2":"https://telegra.ph/file/f966cda58506659b72621.jpg",
   "theme_preview_3":"https://telegra.ph/file/97f2787aef2235f706a50.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/qvr68ec07v1f207/Pooh.zip/file",
-  "theme_download":"https://jaguarface.com/jf/AzDZNLoS"
+  "theme_download":"https://seulink.online/eSlO9Q86"
 },
 {
-  "theme_server":"FMWhatsApp",
+  "theme_server":"Encurtanet",
   "theme_name":"Stock Alfa",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -132,7 +132,7 @@
   "theme_download":"https://seulink.net/z1EC4p"
 },
 {
-  "theme_server":"FMWhatsApp",
+  "theme_server":"Encurtanet",
   "theme_name":"Sub-Zero",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -141,7 +141,7 @@
   "theme_preview_2":"https://telegra.ph/file/8b8b745b2072ef8712cc9.jpg",
   "theme_preview_3":"https://telegra.ph/file/a0ee94a3f9776eae08c9b.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/m8f9r0gtyzmyzw9/Sub-Zero.zip/file",
-  "theme_download":"https://jaguarface.com/jf/NOmQdiF"
+  "theme_download":"https://seulink.online/o57yDs9WC"
 },
 {
   "theme_server":"Encurtanet",
@@ -156,7 +156,7 @@
   "theme_download":"https://seulink.net/iLeTEg"
 },
 {
-  "theme_server":"LJaguar",
+  "theme_server":"Encurtanet",
   "theme_name":"Dark V2",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -165,10 +165,10 @@
   "theme_preview_2":"https://telegra.ph/file/780897082754beab0d963.jpg",
   "theme_preview_3":"https://telegra.ph/file/360c876053de74fb3a784.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/5liuphv59mofdm3/Dark_V2.zip/file",
-  "theme_download":"https://jaguarface.com/jf/JjFzer"
+  "theme_download":"https://seulink.online/vAVhW"
 },
 {
-  "theme_server":"LJaguar",
+  "theme_server":"Encurtanet",
   "theme_name":"White",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -177,10 +177,10 @@
   "theme_preview_2":"https://telegra.ph/file/be4d7c7b573711a7f27fd.jpg",
   "theme_preview_3":"https://telegra.ph/file/1db004af76ef1b3227206.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/bkg8oouxnac24qe/White.zip/file",
-  "theme_download":"https://jaguarface.com/jf/Rhbja1"
+  "theme_download":"https://seulink.online/vJZyFB7"
 },
 {
-  "theme_server":"LJaguar",
+  "theme_server":"Encurtanet",
   "theme_name":"Ursinho Pink",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -189,10 +189,10 @@
   "theme_preview_2":"https://telegra.ph/file/dd3ef28f9436aed61a389.jpg",
   "theme_preview_3":"https://telegra.ph/file/4c0ad91ff597a5ea75d2c.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/v9xyxgm14ywq7oa/Ursinho_Pink.zip/file",
-  "theme_download":"https://jaguarface.com/jf/27tRsMhm"
+  "theme_download":"https://seulink.online/d634"
 },
 {
-  "theme_server":"LJaguar",
+  "theme_server":"Encurtanet",
   "theme_name":"Estrelado",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -201,10 +201,10 @@
   "theme_preview_2":"https://telegra.ph/file/f87caba0b483252fa1feb.jpg",
   "theme_preview_3":"https://telegra.ph/file/5f55dfae2ff8fb051bb72.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/9rtfyn7z7ytaq0h/Estrelado.zip/file",
-  "theme_download":"https://jaguarface.com/jf/7NaEKF2"
+  "theme_download":"https://seulink.online/gMFcYqYp"
 },
 {
-  "theme_server":"LJaguar",
+  "theme_server":"Encurtanet",
   "theme_name":"Padroeira",
   "theme_user":"Dom Gean",
   "theme_date":"23 de junho",
@@ -213,7 +213,7 @@
   "theme_preview_2":"https://telegra.ph/file/71e9486f1ed65e64c0bc7.jpg",
   "theme_preview_3":"https://telegra.ph/file/76ad18679e98e5453f7bf.jpg",
   "theme_download_noads":"https://www.mediafire.com/file/xdb9tql1d2czdcj/Padroeira.zip/file",
-  "theme_download":"https://jaguarface.com/jf/Ivy"
+  "theme_download":"https://seulink.online/piyrxcEah"
 },
 {
   "theme_server":"Encurtanet",
