@@ -1,6 +1,6 @@
 {
  "type":"banner",
- "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
+ "banner_url":"hhttps://youtube.com/c/SuporteWhatsApp2021",
  "title":"Me siga no YouTube 🚀",
  "description":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
  "button_url":"testar agora",
