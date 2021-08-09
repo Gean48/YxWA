@@ -206,7 +206,7 @@
 {
   "theme_server":"Encurtanet",
   "theme_name":"Padroeira",
-  "theme_user":"Femininos",
+  "theme_user":"Religioso",
   "theme_date":"23 de junho",
   "theme_size":"599,2 KB",
   "theme_preview_1":"https://telegra.ph/file/33a8d02567bf87c99e7de.jpg",
