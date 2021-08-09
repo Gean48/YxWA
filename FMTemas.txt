@@ -2,6 +2,18 @@
 
 {
   "theme_server": "Encurtanet",
+  "theme_name": "Vegeta",
+  "theme_user": "Animes",
+  "theme_date": "09 de agosto",
+  "theme_size": "1.28 MB",
+  "theme_preview_1": "https://telegra.ph/file/77be5bcfef9ec755de285.jpg",
+  "theme_preview_2": "https://telegra.ph/file/80aec6d1f5ac0cd014a68.jpg",
+  "theme_preview_3": "https://telegra.ph/file/797701d65b544db152022.jpg",
+  "theme_download_noads": "https://www.mediafire.com/file/ykbyi56x2id0awt/Vegeta.zip/file",
+  "theme_download": "https://seulink.online/fmSQzWec"
+},
+{
+  "theme_server": "Encurtanet",
   "theme_name": "Scorpion",
   "theme_user": "Filmes e Series",
   "theme_date": "09 de agosto",
