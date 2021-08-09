@@ -2,6 +2,30 @@
 
 {
   "theme_server": "Encurtanet",
+  "theme_name": "Lúcifer V2",
+  "theme_user": "Filmes e Series",
+  "theme_date": "09 de agosto",
+  "theme_size": "3.33 MB",
+  "theme_preview_1": "https://telegra.ph/file/a2ad840a44bfc4a73c77d.jpg",
+  "theme_preview_2": "https://telegra.ph/file/c13ecccb6606f52c38834.jpg",
+  "theme_preview_3": "https://telegra.ph/file/a60184810d3f458e610a0.jpg",
+  "theme_download_noads": "https://www.mediafire.com/file/cabyrpwoauvvrxv/L%25C3%25BAcifer_V2.zip/file",
+  "theme_download": "https://seulink.online/LhKMt5n"
+},
+{
+  "theme_server": "Encurtanet",
+  "theme_name": "Lúcifer",
+  "theme_user": "Filmes e Series",
+  "theme_date": "09 de agosto",
+  "theme_size": "1.98 MB",
+  "theme_preview_1": "https://telegra.ph/file/685d103422b1fae5de201.jpg",
+  "theme_preview_2": "https://telegra.ph/file/be40ef266425b83534fde.jpg",
+  "theme_preview_3": "https://telegra.ph/file/cbd91632e6d19f3336568.jpg",
+  "theme_download_noads": "https://www.mediafire.com/file/12979k04new2810/L%25C3%25BAcifer.zip/file",
+  "theme_download": "https://seulink.online/gEGD"
+},
+{
+  "theme_server": "Encurtanet",
   "theme_name": "Vegeta",
   "theme_user": "Animes",
   "theme_date": "09 de agosto",
