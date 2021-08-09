@@ -20,8 +20,8 @@
   "category_tags_5":"Filmes e Series", 
   "category_title_color_5":"#ffffff", 
   "category_background_color_5":"#", 
-  "category_title_6":"Vaga 05", 
-  "category_tags_6":"Vaga 05",
+  "category_title_6":"Religioso", 
+  "category_tags_6":"Religioso",
   "category_title_color_6":"#ffffff", 
   "category_background_color_6":"#"
 }
