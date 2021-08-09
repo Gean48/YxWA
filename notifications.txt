@@ -1,7 +1,7 @@
 {
  "type":"banner",
  "banner_url":"https://modsalfa.blogspot.com/p/doar.html?m=1",
- "title":"Me siga no YouTubepague um café ☕":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
+ "title":"Me pague um café ☕":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
  "button_url":"testar agora",
  "url":"https://modsalfa.blogspot.com/p/doar.html?m=1",
  "id":"ad0101010o1"
