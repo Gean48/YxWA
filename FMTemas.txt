@@ -2,6 +2,18 @@
 
 {
   "theme_server": "Encurtanet",
+  "theme_name": "Santa Paciência",
+  "theme_user": "Femininos",
+  "theme_date": "10 de agosto",
+  "theme_size": "2.21 MB",
+  "theme_preview_1": "https://telegra.ph/file/7dec51b036c3798cba88c.jpg",
+  "theme_preview_2": "https://telegra.ph/file/3c015eb1accec945a699d.jpg",
+  "theme_preview_3": "https://telegra.ph/file/8f4dbf589b45fe5801b8a.jpg",
+  "theme_download_noads": "https://www.mediafire.com/file/4g3m21dsqcqmktd/Santa_Paci%25C3%25AAncia.zip/file",
+  "theme_download": "https://seulink.online/WrbVK"
+},
+{
+  "theme_server": "Encurtanet",
   "theme_name": "Lúcifer V2",
   "theme_user": "Filmes e Series",
   "theme_date": "09 de agosto",
