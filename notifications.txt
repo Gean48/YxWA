@@ -1,6 +1,6 @@
 {
  "type":"banner",
- "banner_url":"https://modsalfa.blogspot.com/p/doar.html",
+ "banner_url":"https://telegra.ph/Me-pague-um-café-08-11",
  "title":"Me pague um café ☕",
  "description":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
  "button_url":"testar agora",
