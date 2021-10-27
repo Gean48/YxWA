@@ -1,9 +1,79 @@
+[
 {
- "type":"banner",
- "banner_url":"https://telegra.ph/Me-pague-um-café-08-11",
- "title":"Me pague um café ☕",
- "description":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
- "button_url":"testar agora",
- "url":"https://youtu.be/WPUDYDQVQKo",
- "id":"ad0101010o4"
-}
+   "title":"Segue no Instagram",
+   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"talvez depois",
+   "ok_toast":"Manda DM que sigo de volta =)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://www.instagram.com/dom_gean/",
+   "id":"insta_",
+   "cancelable":"false"
+},
+{
+   "title":"Segue no Instagram",
+   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"talvez depois",
+   "ok_toast":"Manda DM que sigo de volta =)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://www.instagram.com/dom_gean/",
+   "id":"insta2_",
+   "cancelable":"false"
+},
+{
+   "title":"Segue no Instagram",
+   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"talvez depois",
+   "ok_toast":"Manda DM que sigo de volta =)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://www.instagram.com/dom_gean/",
+   "id":"insta3_",
+   "cancelable":"false"
+},
+{
+   "title":"Segue no Instagram",
+   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"talvez depois",
+   "ok_toast":"Manda DM que sigo de volta =)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://www.instagram.com/dom_gean/",
+   "id":"insta4_",
+   "cancelable":"false"
+},
+{
+   "title":"Segue no Instagram",
+   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"talvez depois",
+   "ok_toast":"Manda DM que sigo de volta =)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://www.instagram.com/dom_gean/",
+   "id":"insta5_",
+   "cancelable":"false"
+},
+{
+   "title":"Segue no Instagram",
+   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "request":"null",
+   "type":"official",
+   "ok":"seguir",
+   "cancell":"talvez depois",
+   "ok_toast":"Manda DM que sigo de volta =)",
+   "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
+   "is_web":"https://www.instagram.com/dom_gean/",
+   "id":"insta6_",
+   "cancelable":"false"
+}]
