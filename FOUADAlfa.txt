@@ -1,12 +1,6 @@
 {
- "version":"9.06",
- "expire881":"1000",
- "expire870":"1000",
- "store":"1",
- "rewards":"",
- "title":"Atualização disponível V9.06 🛠️",
- "description":"Uma nova atualização está disponível e inclui uma nova opção bem legal 👀",
- "download":"https://seulink.online/hPD4",
- "users_premium":"",
- "force":"true"
+ "version":"9.21",
+ "title":"Atualização disponível v9.21 🛠️",
+ "description":"Opa? Ja viu a nova atualização ? 👏🏻🚀",
+ "download":"https://t.me/s/DigitalSuporte/681"
 }
