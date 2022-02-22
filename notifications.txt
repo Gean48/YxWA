@@ -1,7 +1,7 @@
 [
 {
-   "title":"Segue no Instagram",
-   "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
+   "title":"Siga o criador desse mod!",
+   "description":"siga o desenvolvedor para saber tudo referente a esse WhatsApp =)",
    "request":"null",
    "type":"official",
    "ok":"seguir",
@@ -65,7 +65,7 @@
    "cancelable":"false"
 },
 {
-   "title":"Entre no Telegram",
+   "title":"entre no telegram",
    "description":"Você usa Telegram? Entre no grupo do meu desenvolvedor =)",
    "request":"null",
    "type":"official",
