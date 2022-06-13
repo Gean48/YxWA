@@ -1,5 +1,5 @@
 {
- "version":"9.25F",
+ "version":"9.30",
  "title":"Atualização disponível v9.25 🛠️",
  "description":"Opa! Já viu a nova atualização ?\n\nBaixe já para manter seu WhatsApp na melhor versão! 👏🏻🚀",
  "download":"https://t.me/s/DGModz"
